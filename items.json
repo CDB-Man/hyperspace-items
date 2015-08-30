@@ -935,7 +935,7 @@
         "initialbounty": -4,
         "mineenergy": "=140",
         "shraplevel": "=2",
-        "bombdelay": "=135"
+        "bombdelay": "=150"
       },
       "events": [],
       "categories": {
@@ -6229,7 +6229,7 @@
       ]
     },
     {
-      "name": "OverThruster",
+      "name": "Overthruster",
       "short_description": "High rotation drive.",
       "long_description": "Allows for rapid turns and maneuvers.",
       "buy_price": 16000,
