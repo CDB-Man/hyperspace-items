@@ -4580,10 +4580,10 @@
       "stores": []
     },
     {
-      "name": "Cobalt Warhead Mk. 2",
-      "short_description": "Devastating explosion",
-      "long_description": "The bomb detonates at the site of death",
-      "buy_price": 1200000,
+      "name": "Cobalt III",
+      "short_description": "Devastating explosion.",
+      "long_description": "The bomb detonates at the site of death.",
+      "buy_price": 200000,
       "sell_price": 1,
       "exp_required": 15000,
       "ships_allowed": [
@@ -4602,7 +4602,9 @@
       "min_ammo": 0,
       "affects_sets": true,
       "resend_sets": true,
-      "types": {},
+      "types": {
+        "Alien Tech": 1
+      },
       "properties": {},
       "events": [
         {
